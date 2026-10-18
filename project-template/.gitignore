@@ -1,0 +1,6 @@
+output/
+# クライアントからもらった本番データはGitに入れない
+client_data/
+# 鍵ファイル・パスワード類
+credentials.json
+.env
