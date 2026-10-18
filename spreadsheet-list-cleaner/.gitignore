@@ -1,0 +1,4 @@
+output/
+# Googleの鍵ファイル（パスワードと同じなので絶対に公開しない）
+credentials.json
+*.json
